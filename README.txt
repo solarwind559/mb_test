@@ -22,7 +22,8 @@ Since it's not fully functional, JS is currently disabled. To enable and test it
 1. I did not succeed in using OOP for some task requirements. So they are done through procedural PHP :/.
 To view whatever could be done, see folder /mb_test/php_oop/ and open the displayed table on /mb_test/php_oop/table.php
 
-2. Had trouble implementing sorting, searching and deleting all on the same page. Some of the code was started few months ago during the first try, so it looks inconsistent and now I lacked time to sort it out.
+2. Had trouble implementing sorting, searching and deleting all on the same page.
+Some of the code was started few months ago during the first try, so it looks inconsistent and now I lacked time to sort it out.
 The pages are available separately:
 	1)/mb_test/php/table_sorting.php (for sorting table contents)
 	2)/mb_test/php/table_filters.php (for searching emails)
