@@ -67,16 +67,6 @@ const validateInputs = () => {
 const validateChecked = () => {
   agree.classList.remove("hidden");
   isValid = true;
-    
-      // if(emailValid.value.endsWith(".co")){
-      //   col.classList.remove("columbian");
-      //   button.style.visibility = "hidden";
-      //   isValid = false;
-  
-      //   } else {
-      //   isValid = true;
-      //   button.style.visibility = "visible";
-      //   }  
 
     if (!checkValid.checked) {
       agree.classList.remove("hidden");
