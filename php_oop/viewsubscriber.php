@@ -16,14 +16,8 @@ class ViewSubscriber extends Subscriber {
   public function showData(){
     $datas = $this->getData();
     foreach($datas as $data){
-      // echo $data['address'];
-      // echo $data['time'];
       ?>
   <table>
-    <!-- <tr>
-      <th>Date</th>   
-      <th>Address</th>
-    </tr> -->
       <tr>
       <td><?php echo $data['time'];?>
       </td><br>
