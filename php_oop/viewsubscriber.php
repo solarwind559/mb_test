@@ -10,7 +10,6 @@
 
   
 <?php
-
 class ViewSubscriber extends Subscriber {
 
   public function showData(){
