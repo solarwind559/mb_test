@@ -27,7 +27,6 @@ class ViewSubscriber extends Subscriber {
   </table>
     <?php
     }
-
   }
   
 }
