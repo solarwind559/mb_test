@@ -12,8 +12,8 @@
 	
 	
 2. To view existing data in tables :
-	-1)Open localhost/phpmyadmin/ and create a database called emails_test. 
-	-2)Open the database, and inside it import the file called emails.sql to be able to view all the test data in tables.
+	-Open localhost/phpmyadmin/ and create a database called emails_test. 
+	-Open the database, and inside it import the file called emails.sql to be able to view all the test data in tables.
 
 
 ##**Issues:
